@@ -1,5 +1,5 @@
 ipdb==0.12.2
-numpy==1.17.0
+numpy==1.22.0
 Pillow==6.1.0
 rarfile==3.0
 requests==2.22.0
